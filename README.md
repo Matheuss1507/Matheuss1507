@@ -16,6 +16,7 @@ Recentemente, atuei como Monitor de Introdução à Programação, auxiliando al
 
 ### 🚀 Projetos em Destaque
 **[Sistema de Locadora de Carros](https://github.com/Matheuss1507/projeto-locadora-carros)**: Sistema desktop completo em Java para gerenciamento de locações, com integração a banco de dados SQL, geração de relatórios em PDF, envio de emails e geração de QR Code para pagamento via Pix.
+
 **[Visualizador de Cotações de Ações](https://github.com/Matheuss1507/projeto-visualizador-acoes)**: Aplicação web em Python (Streamlit) para consultar e visualizar gráficos interativos com o histórico de cotações, utilizando as bibliotecas yfinance e Plotly.
 
 ### 📊 Minhas Estatísticas
