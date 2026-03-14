@@ -1,6 +1,6 @@
 # Olá, eu sou o Matheus Soares! 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas no IFPE e Técnico em Redes de Computadores[cite: 10].Tenho foco em suporte técnico e desenvolvimento de sistemas, buscando sempre aplicar meus conhecimentos em redes, linguagens de programação e análise de sistemas para criar soluções eficientes e inovadoras.
+Sou estudante de Análise e Desenvolvimento de Sistemas no IFPE e Técnico em Redes de Computadores.Tenho foco em suporte técnico e desenvolvimento de sistemas, buscando sempre aplicar meus conhecimentos em redes, linguagens de programação e análise de sistemas para criar soluções eficientes e inovadoras.
 
 Recentemente, atuei como Monitor de Introdução à Programação, auxiliando alunos na compreensão de conceitos em Python e na resolução de projetos e exercícios.
 
